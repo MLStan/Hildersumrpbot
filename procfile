@@ -1,1 +1,1 @@
-worker: node Hildersumrpbot/index.js
+worker: node /index.js
