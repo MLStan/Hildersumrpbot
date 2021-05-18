@@ -1,0 +1,14 @@
+{
+  "name": "hildersumrp",
+  "version": "1.0.0",
+  "description": "Bot made by Stan.Meta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stan.Meta",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
